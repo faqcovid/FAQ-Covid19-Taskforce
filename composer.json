@@ -1,0 +1,17 @@
+{
+    "require":
+    {
+      "phpclasses/stanford-core-nlp": ">=4.0.8",
+      "phpclasses/php-stanford-nlp-dat": ">=1.0.3",
+      "phpclasses/mysqlwithelasticsear": ">=8",
+      "phpclasses/automap": ">=1.0",
+      "phpclasses/sentiment-analyzer": ">=1.0.5"
+    },
+    "repositories":
+    [
+      {
+        "type": "composer",
+        "url": "https:\/\/www.phpclasses.org\/"
+      }
+    ]
+  }

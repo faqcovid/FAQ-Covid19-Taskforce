@@ -1,0 +1,7 @@
+{
+    "require" : { 
+        "elasticsearch/elasticsearch" : "~7.0",
+        "serpwow/google-search-results": "^0.2.5",
+        "glicer/spell-checker": "dev-master"
+        }   
+}
